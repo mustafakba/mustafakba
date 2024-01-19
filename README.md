@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hello, I'm Mustafa Kaba! 👋<br><br>🔭 Currently, I'm working on frontend development.<br><br>🌱 I'm also learning backend technologies.<br><br>
+# Hello, I'm Mustafa! 👋<br><br>🔭 Currently, I'm working on frontend development.<br><br>🌱 I'm also learning backend technologies.<br><br>
 
 
 ## 🌐 Socials:
